@@ -30,6 +30,7 @@ author = 'class2'
 
 extensions = [
     "myst_parser",
+    'sphinx_book_theme',
 ]
 
 
